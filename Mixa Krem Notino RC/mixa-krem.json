@@ -91,7 +91,7 @@
                             },
                             {
                                 "name": "columnTwoTitle",
-                                "value": "Dla skóry wrażliwej, normalnej i suchej",
+                                "value": "Dla skóry wrażliwej, normalnej i\u00a0suchej",
                                 "element": "h6",
                                 "properties": {
                                     "fontSize": "20px",
@@ -206,7 +206,7 @@
                             },
                             {
                                 "name": "content",
-                                "value": "Dzięki zawartości kwasu hialuronowego, zdolnego wchłonąć 1000 razy więcej wody niż sam waży, serum zapewnia intensywne nawilżenie przez 24h. Sprężystość i zdrowy wygląd. Skóra wygląda na gładszą i wypełnioną, jest chroniona przed wysuszeniem i czynnikami zewnętrznymi. Natychmiastowe ukojenie. Kremowa konsystencja szybko się wchłania, aby intensywnie odżywić skórę i zapewnić poczucie komfortu.",
+                                "value": "Dzięki zawartości kwasu hialuronowego, zdolnego wchłonąć 1000 razy więcej wody niż sam waży, serum zapewnia intensywne nawilżenie przez 24h. Sprężystość i\u00a0zdrowy wygląd. Skóra wygląda na gładszą i\u00a0wypełnioną, jest chroniona przed wysuszeniem i czynnikami zewnętrznymi. Natychmiastowe ukojenie. Kremowa konsystencja szybko się wchłania, aby intensywnie odżywić skórę i\u00a0zapewnić poczucie komfortu.",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",
@@ -379,7 +379,7 @@
                             },
                             {
                                 "name": "columnTwoTitle",
-                                "value": "Krem nanieś na twarz, rano i wieczorem.",
+                                "value": "Krem nanieś na twarz, rano i\u00a0wieczorem.",
                                 "element": "h6",
                                 "properties": {
                                     "fontSize": "20px",
@@ -494,7 +494,7 @@
                             },
                             {
                                 "name": "columnOneText",
-                                "value": "Zmyj makijaż, oczyść twarz płynem micelarnym Optymalna Tolerancja i przygotuj skórę na dalszą pielęgnację.",
+                                "value": "Zmyj makijaż, oczyść twarz płynem micelarnym Optymalna Tolerancja i\u00a0przygotuj skórę na dalszą pielęgnację.",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",
